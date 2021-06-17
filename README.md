@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-$ git clone https://github.com/martian17/combination-number.git
+$ git clone https://github.com/martian17/joinOrdering.git
 ```
 
 ## usage
