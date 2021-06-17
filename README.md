@@ -1,11 +1,11 @@
-# combination-number
+# Join-ordeging
 
-install:
+## install
 ```bash
 $ git clone https://github.com/martian17/combination-number.git
 ```
 
-usage:
+## usage
 ```bash
 $ cd combination-number.git
 $ node main.js 6
